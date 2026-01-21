@@ -1,3 +1,16 @@
 golang:1.25-bookworm
 golang:1.25.0-alpine
 golangci/golangci-lint:latest
+influxdb:2.8.0
+bladex/sentinel-dashboard:1.8.9
+hashicorp/consul:1.22.2
+jaegertracing/all-in-one:1.76.0
+rabbitmq:4.2.2-management-alpine
+apache/rocketmq:5.4.0
+postgres:18.1-alpine
+neo4j:5.26.19
+prom/prometheus:v3.9.1
+clickhouse/clickhouse-server:25.12.3-alpine
+homeassistant/home-assistant:2026.1.2
+rustdesk/rustdesk-server-s6:latest
+mongo:8.2.3
