@@ -14,3 +14,4 @@ clickhouse/clickhouse-server:25.12.3-alpine
 homeassistant/home-assistant:2026.1.2
 rustdesk/rustdesk-server-s6:latest
 mongo:8.2.3
+mysql:8.0-oracle
